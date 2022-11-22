@@ -1,3 +1,10 @@
+"""
+It was a school project for my little cousin
+and we both solved it to compete :)
+
+Sorry for Hungarian comments.
+"""
+
 from random import randint
 
 # Alapfeladat
